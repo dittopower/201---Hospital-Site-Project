@@ -1,0 +1,6 @@
+1. The server setup is a linux computer with apache web server, mySQL database server, and php.
+
+2. The mySQL  should have the tables imported from the “Database.sql” file to the database.
+
+3.The web server should have our website the files loaded on it and the “connection_include.php” modified with
+ the databases information: username, password and database/schema name.
